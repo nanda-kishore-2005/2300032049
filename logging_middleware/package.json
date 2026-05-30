@@ -1,0 +1,16 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable logging middleware that sends structured logs to an evaluation server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["logging", "middleware", "observability"],
+  "author": "2300032049",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
